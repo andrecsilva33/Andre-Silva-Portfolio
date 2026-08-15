@@ -9,7 +9,7 @@ Portifólio Profissional contendo projetos, cursos, estudos e materiasis técnic
 - Word 
 - Python 
 - SQL 
-- Tratamento de Efluente 
+- Tratamento de ETA/ETE 
 - Gerencimento de Residuos
 - Elaboração de MTR
 - Gestão de documentos

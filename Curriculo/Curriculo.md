@@ -6,13 +6,9 @@ Profissional com conhecimentos técnico em químicam, análises laboratoriais, p
 ferramentas de tecnologia e análise de dados.
 
 ## Contatos
-Corumbá, Nova Iguaçu - RJ
-
 :telephone_receiver:(21) 98200-8131
 
-:e-mail: andrecost17@hotmail.com
-
-:e-mail: thiisandre@gmail.com
+:e-mail: andrecost17@hotmail.com | :e-mail: thiisandre@gmail.com
 
 :red_car: CNH Categoria B (EAR)
 

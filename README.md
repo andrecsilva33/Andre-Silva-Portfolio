@@ -1,9 +1,9 @@
-#André Silva 
+# André Silva 
 
-##Técnico Química 
+## Técnico Química 
 Portifólio Profissional contendo projetos, cursos, estudos e materiasis técnicos. 
 
-##Competências 
+## Competências 
 - Excel 
 - PowerPoint 
 - Word 

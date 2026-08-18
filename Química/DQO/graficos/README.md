@@ -1,3 +1,3 @@
-# Graficos
+# Gráficos
 
-Nesta pasta contém gráficos de redução ou aumento da demanda conforme análises.
+Nesta pasta serão armazenados os gráficos utilizados para apresentar a evolução e os resultados das análises.

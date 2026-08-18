@@ -1,3 +1,3 @@
 # Imagens
 
-Nesta pasta contém  imagens do processo de DQO
+Imagens utilizadas para documentação e apresentação do projeto.
